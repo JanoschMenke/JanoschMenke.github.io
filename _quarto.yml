@@ -1,0 +1,36 @@
+project:
+  type: website
+
+  
+website:
+  title: "Janosch Menke"
+  twitter-card: true
+  open-graph: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - blog.qmd
+      - text: Teaching
+        menu:
+        - text: Introduction to AI
+          href: https://janoschmenke.github.io/intro_ai_pharma/
+    right:
+      - text: "{{< fa graduation-cap size=lg >}}"
+        href: https://scholar.google.com/citations?hl=de&user=FjDP6YoAAAAJ&view_op=list_works&sortby=pubdate
+      - text: "{{< fa brands github size=lg >}}"
+        href: https://github.com/janoschmenke
+      - text: "{{< fa brands twitter size=lg >}}"
+        href: https://twitter.com/janoschmenke
+
+format:
+  html:
+    theme:
+      light: flatly
+    css: styles.css
+    toc: true
+
+
+
