@@ -1,7 +1,5 @@
 project:
   type: website
-
-  
 website:
   title: "Janosch Menke"
   twitter-card: true
@@ -16,7 +14,7 @@ website:
       - text: Teaching
         menu:
         - text: Introduction to AI
-          href: https://janoschmenke.github.io/intro_ai_pharma/
+          href: https://janoschmenke.github.io/intro_pharma_ai/
     right:
       - text: "{{< fa graduation-cap size=lg >}}"
         href: https://scholar.google.com/citations?hl=de&user=FjDP6YoAAAAJ&view_op=list_works&sortby=pubdate

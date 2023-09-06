@@ -12,6 +12,5 @@ about:
       href: https://github.com/JanoschMenke
 
 ---
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a postdoctoral Researcher at the Data Sciience & AI Division at the Chalmers University of Technology.
+My research interest lay in the application of AI in the field of drug discovery and currenlty I focuses on improving de novo drug design by including the human in the Reinforcement loop.
