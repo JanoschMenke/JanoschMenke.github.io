@@ -11,14 +11,7 @@
     "href": "index.html",
     "title": "Hi I’m Janosch Menke",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "sds"
+    "text": "I am a postdoctoral Researcher at the Data Sciience & AI Division at the Chalmers University of Technology. My research interest lay in the application of AI in the field of drug discovery and currenlty I focuses on improving de novo drug design by including the human in the Reinforcement loop."
   },
   {
     "objectID": "research.html",
@@ -30,8 +23,8 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "ExperienceEducationSkills\n\n\nPostdoccotral Researcher (March 2023 – Current)\nChalmers University of Technology, Sweden\nTogether with AstraZeneca imrpoving their de novo agent ‘Reinvent’ by integrating human feedback and preference Supervisor: Prof. Dr. Ola Engkvist\nVisiting Researcher (January 2022 - July 2022)\nAstraZeneca, Sweden\nBuilt a transformer model that generates molecular representation better suited for the screening of potential ion channel modulators. Supervisor: Dr Christian Tyrchan\nPh.D. Student (October 2019 - February 2023)\nUniversity of Münster, Germany\nUsing Feed-forwards and Graph Neural Networks generate improvied molecular representations that improve the results of similarity searches. Supervisor: Prof. Dr. Oliver Koch\nMaster Student (September 2018 - June - 2019)\nSanquin, Netherlands\nImprove the boostering schedule for Tetanus Antibody Donors using Bayesian Modeling.\n\n\nM.Sc. Methedology and Statistics (2017-2019)\nUtrecht University, Netherlands\nB.Sc. Psychology (2014-2017)\nUniversity of Twente, Netherlands\n\n\nProgramming | Python | R | basic Fortran | PyTorch\nComputer Graphics | Blender | Inkscape\nTeaching | Intro To Datascience, Utrecht | Intro to AI for Life Sciences, Münster\nLanguages | German | English | Dutch\n\n\n\n\nPublicationsExtracurricularPrizes\n\n\n\n2023\n\nZhang, Y.; Menke, J*.; He, J.; Nittinger, E.; Tyrchan, C.; Koch, O.; Zhao, H. Similarity-Based Pairing Improves Efficiency of Siamese Neural Networks for Regression Tasks and Uncertainty Quantification. Journal of Cheminformatics 2023, 15(1). https://doi.org/10.1186/s13321-023-00744-6.\n*Corresponding Author\nMenke, J.; Homberg, S.; Koch, O. Introduction to Artificial Intelligence and Deep Learning Using Interactive Electronic Programming Notebooks. Archiv Der Pharmazie 2023, 356 (7). https://doi.org/10.1002/ardp.202200628.\n\n\n2021\n\nMenke, J.; Massa, J.; Koch, O. Natural Product Scores and Fingerprints Extracted from Artificial Neural Networks. Computational and Structural Biotechnology Journal 2021, 19, 4593–4602. https://doi.org/10.1016/j.csbj.2021.07.032.\nComputational Ion Channel Research: From the Application of Artificial Intelligence to Molecular Dynamics Simulations. Cellular Physiology and Biochemistry 2020, 55 (S3), 14–45. https://doi.org/10.33594/000000336.\nMenke, J.; Koch, O. Using Domain-Specific Fingerprints Generated through Neural Networks to Enhance Ligand-Based Virtual Screening. Journal of Chemical Information and Modeling 2021, 61 (2), 664–675. https://doi.org/10.1021/acs.jcim.0c01208.\n\n\n2019\n\nMulder, J.; Williams, D. R.; Gu, X.; Tomarken, A.; Böing-Messing, F.; Olsson-Collentine, A.; Meijerink, M.; Menke, J.; van Aert, R.; Fox, J.-P.; Hoijtink, H.; Rosseel, Y.; Wagenmakers, E.-J.; van Lissa, C. BFpack: Flexible Bayes Factor Testing of Scientific Theories in R. Journal of Statistical Software 2021, 100 (18). https://doi.org/10.18637/jss.v100.i18.\n\n\n\nStudent Representative for Gradua"
   }
 ]
